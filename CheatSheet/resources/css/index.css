@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 20px
+}
+h2 {
+    text-align: center;
+    color: darkorchid;
+    margin: 20px 20px;
+}
+
+table {
+    border: 1px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+    } 
+
+.code {
+    background-color: beige;
+}
+
+td {
+    border-top: 1px solid darkorchid;
+    font-family: monospace;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(204, 50, 163);
+}
